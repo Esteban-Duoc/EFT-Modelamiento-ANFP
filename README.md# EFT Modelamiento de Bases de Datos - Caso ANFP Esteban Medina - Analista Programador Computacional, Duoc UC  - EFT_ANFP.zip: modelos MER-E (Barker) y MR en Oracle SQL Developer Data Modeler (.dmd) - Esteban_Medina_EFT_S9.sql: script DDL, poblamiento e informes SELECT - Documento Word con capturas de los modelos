@@ -1,0 +1,6 @@
+# EFT Modelamiento de Bases de Datos - Caso ANFP
+Esteban Medina - Analista Programador Computacional, Duoc UC
+
+- EFT_ANFP.zip: modelos MER-E (Barker) y MR en Oracle SQL Developer Data Modeler (.dmd)
+- Esteban_Medina_EFT_S9.sql: script DDL, poblamiento e informes SELECT
+- Documento Word con capturas de los modelos
